@@ -101,7 +101,7 @@
   text-transform: uppercase;
   color: white;
   letter-spacing: 30px;
-  margin-top: -20px;
+  /* margin-top: -20px; */
   margin-bottom: 135px;
   z-index: 2;
 }
@@ -244,6 +244,7 @@
   background-position: center;
   background-size: cover;
   z-index: -1;
+  min-height: 450px;
 }
 
 .card_type_book {
@@ -253,6 +254,7 @@
   background-position: center;
   background-size: cover;
   z-index: -1;
+  min-height: 450px;
 }
 
 .card_type_picture {
@@ -262,6 +264,7 @@
   background-position: center;
   background-size: cover;
   z-index: -1;
+  min-height: 450px;
 }
 
 .lots__look-more-link {
@@ -281,7 +284,7 @@
   display: grid;
   grid-auto-rows: 1fr;
   grid-template-rows: 1fr;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: min-content 1fr;
   grid-column-gap: 25px;
 }
 

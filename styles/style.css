@@ -50,7 +50,7 @@
 
 .header__contacts {
   list-style: none;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-weight: normal;
 }
 
@@ -178,7 +178,7 @@
 
 .lots__heading {
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -217,7 +217,7 @@
 
 .card__title {
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -229,7 +229,7 @@
 
 .card__text {
   color: #fff;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -270,7 +270,7 @@
 .lots__look-more-link {
   padding-left: 40px;
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -317,7 +317,7 @@
 
 .about__title {
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -331,7 +331,7 @@
 .about__text {
   position: relative;
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -359,7 +359,7 @@
 .footer__menu-list-item {
   color: #000;
   text-align: center;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;

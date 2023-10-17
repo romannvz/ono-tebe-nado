@@ -273,16 +273,13 @@ a:hover {
 .about__column {
   display: flex;
   flex-direction: column;
-  position: relative;
   color: #000;
   font-family: Raleway, Arial, Helvetica, sans-serif;
   font-style: normal;
   line-height: normal;
-  position: relative;
 }
 
 .about__logo {
-  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
